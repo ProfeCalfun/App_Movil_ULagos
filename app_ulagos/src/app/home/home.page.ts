@@ -9,4 +9,4 @@ import { IonHeader, IonToolbar, IonTitle, IonContent } from '@ionic/angular';
 })
 export class HomePage {
   constructor() {}
-}
+};

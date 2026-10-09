@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "cli": "^1.0.1",
-    "node.js": "^0.0.1-security"
-  }
-}
